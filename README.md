@@ -98,7 +98,6 @@ Have ideas, questions, or found a bug?
 - Star this repo if you find it useful!
 
 ---
-
 **Happy chatting! 🤖💬**
 
 ---
