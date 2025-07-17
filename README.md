@@ -96,7 +96,6 @@ Feel free to suggest one or use as a reference for learning and non-commercial p
 Have ideas, questions, or found a bug?  
 - Open an issue on [GitHub Issues](https://github.com/VipulSingh2/Chatbotu/issues)
 - Star this repo if you find it useful!
-
 ---
 **Happy chatting! 🤖💬**
 
