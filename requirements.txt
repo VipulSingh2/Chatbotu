@@ -11,3 +11,4 @@ transformers
 langchain-huggingface
 scikit-learn
 google-genai
+
