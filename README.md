@@ -102,4 +102,3 @@ Have ideas, questions, or found a bug?
 ---
 
 Feel free to copy, edit, and extend this README for your project! If you provide more details about Chatbotu’s internals, I can add more technical sections (architecture, API docs, etc.).
-
